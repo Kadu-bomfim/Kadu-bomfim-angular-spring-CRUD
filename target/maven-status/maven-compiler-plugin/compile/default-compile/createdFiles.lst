@@ -1,2 +1,4 @@
+br\com\kadubomfim\repository\CategoriaRepository.class
 br\com\kadubomfim\prestacaoServicoApplication.class
-br\com\kadubomfim\model\Cliente.class
+br\com\kadubomfim\resource\CategoriaResource.class
+br\com\kadubomfim\model\Categoria.class
